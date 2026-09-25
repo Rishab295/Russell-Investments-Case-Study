@@ -1,7 +1,7 @@
 # Russell Investments – Quantitative Case Study
 
 <p align="center">
-  <img src="assets/russell-investments.png" alt="Russell Investments Quantitative Case Study" width="900">
+  <img src="./russell-investments.png" alt="Russell Investments Quantitative Case Study" width="900">
 </p>
 
 This repository contains my solution to the **Russell Investments Quantitative Case Study**.
