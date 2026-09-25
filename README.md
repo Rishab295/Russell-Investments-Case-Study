@@ -1,5 +1,8 @@
-
 # Russell Investments – Quantitative Case Study
+
+<p align="center">
+  <img src="assets/russell-investments.png" alt="Russell Investments Quantitative Case Study" width="900">
+</p>
 
 This repository contains my solution to the **Russell Investments Quantitative Case Study**.
 
@@ -32,4 +35,3 @@ Python • Pandas • NumPy • SciPy • Statsmodels • Matplotlib • Seaborn
 ## Note
 
 This project was completed as an individual quantitative research case study. Data sources, assumptions, methodology, limitations, and results are documented in the accompanying report.
-
